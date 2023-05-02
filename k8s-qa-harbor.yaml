@@ -24,7 +24,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-   name: demo
+   name: jenkins-demo
    namespace: qatest
 spec:
    selector:
